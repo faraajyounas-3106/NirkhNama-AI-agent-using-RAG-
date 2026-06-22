@@ -1,1 +1,1 @@
-# NirkhNama-AI-agent-using-RAG-
+# nirkhnama_app
